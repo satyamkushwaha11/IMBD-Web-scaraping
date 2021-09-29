@@ -1,0 +1,308 @@
+{
+    "Name": "Neerja",
+    "RunTime": 122,
+    "Director": [
+        "Ram Madhvani"
+    ],
+    "Bio": "Neerja is the story of the courageous Neerja Bhanot, who sacrificed her life while protecting the lives of 359 passengers on the Pan Am flight 73 in 1986. The flight was hijacked by a terror... Read all",
+    "genre": [
+        "Biography",
+        "Drama",
+        "Thriller"
+    ],
+    "country": "India",
+    "Language": [
+        "Hindi"
+    ],
+    "poster_image_url": "https://m.media-amazon.com/images/M/MV5BZDhjM2E0OWMtOTA0Yy00NTNhLWEwNTEtZjhkNjNmNTdiZDA2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY133_CR1,0,90,133_.jpg 90w, https://m.media-amazon.com/images/M/MV5BZDhjM2E0OWMtOTA0Yy00NTNhLWEwNTEtZjhkNjNmNTdiZDA2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY200_CR1,0,135,200_.jpg 135w, https://m.media-amazon.com/images/M/MV5BZDhjM2E0OWMtOTA0Yy00NTNhLWEwNTEtZjhkNjNmNTdiZDA2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY266_CR2,0,180,266_.jpg",
+    "cast": [
+        {
+            "imbd_id": "nm2128238",
+            "name": "Sonam Kapoor"
+        },
+        {
+            "imbd_id": "nm0863171",
+            "name": "Yogendra Tikku"
+        },
+        {
+            "imbd_id": "nm6845061",
+            "name": "Jim Sarbh"
+        },
+        {
+            "imbd_id": "nm7943138",
+            "name": "Vikrant Singta"
+        },
+        {
+            "imbd_id": "nm7136212",
+            "name": "Madhu Anand Chandhock"
+        },
+        {
+            "imbd_id": "nm7805689",
+            "name": "Kirti Adarkar"
+        },
+        {
+            "imbd_id": "nm11523010",
+            "name": "Amarjit"
+        },
+        {
+            "imbd_id": "nm9377852",
+            "name": "Yugesh Anil"
+        },
+        {
+            "imbd_id": "nm7939205",
+            "name": "Rohit Assija"
+        },
+        {
+            "imbd_id": "nm8087595",
+            "name": "Freny Bhagat"
+        },
+        {
+            "imbd_id": "nm7939206",
+            "name": "Sonal Paresh Borkhatariya"
+        },
+        {
+            "imbd_id": "nm12813502",
+            "name": "Gauransh Chauhan"
+        },
+        {
+            "imbd_id": "nm6269777",
+            "name": "Eisha Chopra"
+        },
+        {
+            "imbd_id": "nm7939191",
+            "name": "Pankaj Chouhan"
+        },
+        {
+            "imbd_id": "nm2240997",
+            "name": "Prashantt Guptha"
+        },
+        {
+            "imbd_id": "nm7973910",
+            "name": "Shonita Joshi"
+        },
+        {
+            "imbd_id": "nm8314085",
+            "name": "Meghana Kaushik"
+        },
+        {
+            "imbd_id": "nm7491972",
+            "name": "Waqar Khan"
+        },
+        {
+            "imbd_id": "nm7939207",
+            "name": "Alex Kozyrev"
+        },
+        {
+            "imbd_id": "nm8340421",
+            "name": "Amit Lekhwani"
+        },
+        {
+            "imbd_id": "nm7939201",
+            "name": "Farzana Memon"
+        },
+        {
+            "imbd_id": "nm8738703",
+            "name": "Arush Nand"
+        },
+        {
+            "imbd_id": "nm11416889",
+            "name": "Himanshi Pandey"
+        },
+        {
+            "imbd_id": "nm7939190",
+            "name": "Tiya Pandya"
+        },
+        {
+            "imbd_id": "nm12650044",
+            "name": "Mohamad Ramezani Pour"
+        },
+        {
+            "imbd_id": "nm7939203",
+            "name": "Imran Qureshi"
+        },
+        {
+            "imbd_id": "nm7939266",
+            "name": "Neelam Rana"
+        },
+        {
+            "imbd_id": "nm1243731",
+            "name": "Shekhar Ravjiani"
+        },
+        {
+            "imbd_id": "nm6582227",
+            "name": "Nikhil Sangha"
+        },
+        {
+            "imbd_id": "nm3578888",
+            "name": "Deepak Shah"
+        },
+        {
+            "imbd_id": "nm8265401",
+            "name": "Akshit Shetty"
+        },
+        {
+            "imbd_id": "nm7492530",
+            "name": "Vishvendra Singh"
+        },
+        {
+            "imbd_id": "nm4535968",
+            "name": "Edward Sonnenblick"
+        },
+        {
+            "imbd_id": "nm7939194",
+            "name": "Kartik Thakkar"
+        },
+        {
+            "imbd_id": "nm3484693",
+            "name": "Sushil Tyagi"
+        },
+        {
+            "imbd_id": "nm8314084",
+            "name": "Sunanda Wong"
+        },
+        {
+            "imbd_id": "nm0000818",
+            "name": "Shabana Azmi"
+        },
+        {
+            "imbd_id": "nm5228901",
+            "name": "Abrar Zahoor"
+        },
+        {
+            "imbd_id": "nm7943002",
+            "name": "Ali Baldiwala"
+        },
+        {
+            "imbd_id": "nm3124376",
+            "name": "Parthaa Akerkar"
+        },
+        {
+            "imbd_id": "nm10852335",
+            "name": "Rahaao"
+        },
+        {
+            "imbd_id": "nm5854811",
+            "name": "Hayder Ali"
+        },
+        {
+            "imbd_id": "nm8173733",
+            "name": "Arjun Aneja"
+        },
+        {
+            "imbd_id": "nm7937405",
+            "name": "Bobby Arora"
+        },
+        {
+            "imbd_id": "nm3424525",
+            "name": "Sabreen Baker"
+        },
+        {
+            "imbd_id": "nm8314083",
+            "name": "Shashi Bhushan"
+        },
+        {
+            "imbd_id": "nm7969187",
+            "name": "Dolly Bose"
+        },
+        {
+            "imbd_id": "nm7939189",
+            "name": "Rajan Chhabra"
+        },
+        {
+            "imbd_id": "nm9400943",
+            "name": "Shaurya Chopra"
+        },
+        {
+            "imbd_id": "nm8657371",
+            "name": "Parimal Desai"
+        },
+        {
+            "imbd_id": "nm7939208",
+            "name": "Jenice"
+        },
+        {
+            "imbd_id": "nm12585433",
+            "name": "Shaurya Kaushal"
+        },
+        {
+            "imbd_id": "nm7969190",
+            "name": "Farrah Khan"
+        },
+        {
+            "imbd_id": "nm4549072",
+            "name": "Anjali Khurana"
+        },
+        {
+            "imbd_id": "nm7969189",
+            "name": "Svetlana Kurochkina"
+        },
+        {
+            "imbd_id": "nm7971468",
+            "name": "Arnold Malek"
+        },
+        {
+            "imbd_id": "nm7978577",
+            "name": "Khushnam Mistry"
+        },
+        {
+            "imbd_id": "nm7745794",
+            "name": "Sadh Orhan"
+        },
+        {
+            "imbd_id": "nm7939187",
+            "name": "Deepali Pandya"
+        },
+        {
+            "imbd_id": "nm7939188",
+            "name": "Yashvi Pandya"
+        },
+        {
+            "imbd_id": "nm7939195",
+            "name": "Shashank Qazi"
+        },
+        {
+            "imbd_id": "nm7939209",
+            "name": "Aarush Rana"
+        },
+        {
+            "imbd_id": "nm7939202",
+            "name": "Parveen Rangwala"
+        },
+        {
+            "imbd_id": "nm7939192",
+            "name": "Divya Roy"
+        },
+        {
+            "imbd_id": "nm8738711",
+            "name": "Dishita Sehgal"
+        },
+        {
+            "imbd_id": "nm7939193",
+            "name": "Preeti Sharma"
+        },
+        {
+            "imbd_id": "nm10708104",
+            "name": "Jasleen Singh"
+        },
+        {
+            "imbd_id": "nm7567256",
+            "name": "Poonam Sirnaik"
+        },
+        {
+            "imbd_id": "nm9061170",
+            "name": "Tomer Suraj"
+        },
+        {
+            "imbd_id": "nm7969188",
+            "name": "Valery Tretyak"
+        },
+        {
+            "imbd_id": "nm8723955",
+            "name": "Andy von Eich"
+        },
+        {
+            "imbd_id": "nm7735662",
+            "name": "Ayn Zoya"
+        }
+    ]
+}

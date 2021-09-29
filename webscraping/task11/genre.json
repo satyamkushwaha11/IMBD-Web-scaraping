@@ -1,0 +1,21 @@
+{
+        "Crime": 68,
+        "Drama": 215,
+        "Adventure": 9,
+        "Comedy": 68,
+        "Romance": 57,
+        "Horror": 3,
+        "Music": 8,
+        "Mystery": 23,
+        "Thriller": 93,
+        "Action": 98,
+        "Family": 10,
+        "History": 6,
+        "Sport": 16,
+        "Biography": 14,
+        "Musical": 17,
+        "War": 7,
+        "Fantasy": 6,
+        "Western": 1,
+        "Sci-Fi": 4
+}
